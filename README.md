@@ -1,4 +1,5 @@
 ![Screenshot 2024-07-29 174850](https://github.com/user-attachments/assets/504fbebe-c81c-4f40-9215-4b21e32c40a6)
+MOBILE TESTING
 
 F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 
@@ -32,9 +33,9 @@ Chrome
 
 Directory Structure Evaluation2/ ├─ src/ ├─ test/ ├─ java/ ├─ Apium_project_evaluation/ ├─ nativapp/ ├─ Evaluation1/
 
-Application Under Test AUT URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+Application Under Test AUT URL: https://f-droid.org/
 
-Scope Features to be Tested Testing Types Testing Methodologies Credentials "username": "Admin" "password": "admin123" Selenium Installation & Getting Started Prerequisites Ensure you have java installed on your system. If not, download and install it from nodejs.org.
+Scope Features to be Tested Testing Types Testing Methodologies Credentials: No credential as performin Mobile Testing Selenium Installation & Getting Started Prerequisites Ensure you have java installed on your system. If not, download and install it from nodejs.org.
 
 Installation Step 1. Install Springtool or Eclipse Go to Official Website and download springtool. After Downloading the springtool install it in your system.
 
