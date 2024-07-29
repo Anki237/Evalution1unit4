@@ -1,6 +1,6 @@
 ![Screenshot 2024-07-29 174850](https://github.com/user-attachments/assets/504fbebe-c81c-4f40-9215-4b21e32c40a6)
 
-The URL provided leads to the login page of OrangeHRM, an open-source human resource management system. This platform is designed to help organizations manage their HR processes, including employee records, leave management, and recruitment. The demo site allows users to explore and evaluate the features of OrangeHRM without needing to install it locally. Objective To perform Functional Testing on the Orangehrm Web Application, ensure compatibility across various browsers and address any performance issues.
+F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 
 Tech Stack used in this Project JavaScript
 
@@ -30,7 +30,7 @@ Firefox
 
 Chrome
 
-Directory Structure Evaluation2/ ├─ src/ ├─ test/ ├─ java/ ├─ evaluation_package/
+Directory Structure Evaluation2/ ├─ src/ ├─ test/ ├─ java/ ├─ Apium_project_evaluation/ ├─ nativapp/ ├─ Evaluation1/
 
 Application Under Test AUT URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
@@ -51,7 +51,8 @@ It will download this project.
 Step 5. Run the project Open a terminal and navigate to project directory. Install selenium as a development dependency by running:
 
 Attachments image image
-![Screenshot 2024-07-29 174850](https://github.com/user-attachments/assets/47060958-bf82-4eec-8979-637e34a6bf21)
+![Screenshot 2024-07-29 174850](https://github.com/user-attachments/assets/1233c6be-2078-405e-8422-ae8e4e6d9ecd)
+
 
 🚀 About Me I'm Tester with expertise in Selenium, Cypress, Java, Python, and MySQL. I focus on delivering high-quality solutions through automation and meticulous testing practices.
 
