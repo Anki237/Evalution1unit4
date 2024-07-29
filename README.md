@@ -51,7 +51,8 @@ It will download this project.
 Step 5. Run the project Open a terminal and navigate to project directory. Install selenium as a development dependency by running:
 
 Attachments image image
-![Screenshot 2024-07-29 174850](https://github.com/user-attachments/assets/1233c6be-2078-405e-8422-ae8e4e6d9ecd)
+![Uploading Screenshot 2024-07-29 153138.png…]()
+
 
 
 🚀 About Me I'm Tester with expertise in Selenium, Cypress, Java, Python, and MySQL. I focus on delivering high-quality solutions through automation and meticulous testing practices.
